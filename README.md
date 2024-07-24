@@ -1,5 +1,5 @@
 # AI_Psychology
-Here are some thoughts on the application of AI in psychology.
+Here are some thoughts and research collected on the application of AI in psychology.
 
 
 ## License
