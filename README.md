@@ -56,13 +56,10 @@ Here are some thoughts and research on the application of AI in psychology.
 
 ## Slides sharing link (Traditional Chinese)
 https://www.canva.com/design/DAGJ3_0qIzU/h0sgQe4G5qD3tWnkVMLxcw/view?utm_content=DAGJ3_0qIzU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc551ae42d3
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
+
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https://www.canva.com/design/DAGJ3_0qIzU/u1CXtrGCoCVaAnjbr5Vqtg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
-</div>
-林宜德 設計的 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGJ3_0qIzU&#x2F;u1CXtrGCoCVaAnjbr5Vqtg&#x2F;view?utm_content=DAGJ3_0qIzU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">202407逢甲分享</a>
+
 ## License
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
