@@ -1,5 +1,5 @@
 # AI_Psychology
-Here are some thoughts and research collected on the application of AI in psychology.
+Here are some thoughts and research on the application of AI in psychology.
 
 ## AI Development Trends and Impact
 - Morris, M. R., Sohl-Dickstein, J., Fiedel, N., Warkentin, T., Dafoe, A., Faust, A., ... & Legg, S. (2023). Levels of AGI: Operationalizing Progress on the Path to AGI. arXiv preprint arXiv:2311.02462.
