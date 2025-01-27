@@ -44,9 +44,18 @@ Here are some thoughts and research collected on the application of AI in psycho
 - 范綱華（2023）。臺灣民眾對人工智慧的態度及其影響因素。人文社會科學研究，()，1-23。https://doi.org/10.6284/NPUSTHSSR.202306/PP.2
 
 ## What if...
-
+### Integration of psychophysical representation and information for interpreting mental health.
+- With the above data's integration and AI's rapid development, its feasibility is increasingly higher.
+- It can be applied in medical fields and for high-risk mental health groups, benefiting humanity.
+- However, we must consider ethical issues on multiple levels, such as accuracy and privacy.
+### If AI becomes more like humans, it will not only be a diagnostic tool but also play the role of a companion.
+- Through interaction with humans, its precision and efficiency will improve over time.
+- But, just as the human mind needs to clear excessive negative energy, AI will also need to remove junk data.
+- An interesting TED video discussing this concept, addressing the need to consider the empowerment of AI.
+  Mother London: "AI therapy" https://www.ted.com/talks/mother_london_ai_therapy?utm_source=rn-app-share&utm_medium=social&utm_campaign=tedspread
 
 ## Slides sharing link (Traditional Chinese)
-
+https://www.canva.com/design/DAGJ3_0qIzU/h0sgQe4G5qD3tWnkVMLxcw/view?utm_content=DAGJ3_0qIzU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc551ae42d3
+https://www.canva.com/design/DAGJ3_0qIzU/OIuY34TpVqUjihK6nUpUfw/view
 ### License
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
