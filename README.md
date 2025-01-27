@@ -56,6 +56,6 @@ Here are some thoughts and research collected on the application of AI in psycho
 
 ## Slides sharing link (Traditional Chinese)
 https://www.canva.com/design/DAGJ3_0qIzU/h0sgQe4G5qD3tWnkVMLxcw/view?utm_content=DAGJ3_0qIzU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc551ae42d3
-https://www.canva.com/design/DAGJ3_0qIzU/OIuY34TpVqUjihK6nUpUfw/view
+
 ### License
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
