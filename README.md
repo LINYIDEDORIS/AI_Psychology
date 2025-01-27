@@ -57,9 +57,5 @@ Here are some thoughts and research on the application of AI in psychology.
 ## Slides sharing link (Traditional Chinese)
 https://www.canva.com/design/DAGJ3_0qIzU/h0sgQe4G5qD3tWnkVMLxcw/view?utm_content=DAGJ3_0qIzU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc551ae42d3
 
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGJ3_0qIzU/u1CXtrGCoCVaAnjbr5Vqtg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-
 ## License
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
