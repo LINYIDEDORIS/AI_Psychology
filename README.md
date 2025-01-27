@@ -41,7 +41,7 @@ Here are some thoughts and research on the application of AI in psychology.
 - Stade, E. C., Stirman, S. W., Ungar, L. H., Boland, C. L., Schwartz, H. A., Yaden, D. B., … Eichstaedt, j. C. (2023, April 24). Large language models could change the future of behavioral healthcare:  A proposal for responsible development and evaluation. https://doi.org/10.31234/osf.io/cuzvr
 - Hicks, M. T., Humphries, J., & Slater, J. (2024). ChatGPT is bullshit. Ethics and Information Technology, 26(2). https://doi.org/10.1007/s10676-024-09775-5
 - Bedué, P., & Fritzsche, A. (2021). Can we trust AI? An empirical investigation of trust requirements and guide to successful AI adoption. Journal of Enterprise Information Management, 35(2), 530–549. https://doi.org/10.1108/jeim-06-2020-0233
-- 范綱華（2023）。臺灣民眾對人工智慧的態度及其影響因素。人文社會科學研究，()，1-23。https://doi.org/10.6284/NPUSTHSSR.202306/PP.2
+- 范綱華（2023）。臺灣民眾對人工智慧的態度及其影響因素。人文社會科學研究，(印製中)，1-23。https://doi.org/10.6284/NPUSTHSSR.202306/PP.2
 
 ## What if...
 ### Integration of psychophysical representation and information for interpreting mental health.
